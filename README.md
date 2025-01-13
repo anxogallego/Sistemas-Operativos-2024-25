@@ -1,9 +1,20 @@
-### Sistemas-Operativos-2024-25
-#P1: 4.1/10 (Razon -> violación de segmento en funcion historic N (función de Labassignment0) por lo cual aspirábamos a máximo un 5. Nota equiparable 8.2  
-#P2: 9.4    
-#P3: 8.2  
+# Sistemas Operativos 2024-25
 
+## Calificaciones de Prácticas
+- **P1:** 4.1/10  
+  *(Razón: Violación de segmento en la función `historic N` (función de Labassignment0), por lo cual aspirábamos a un máximo de 5. Nota equiparable: 8.2)*
+- **P2:** 9.4  
+- **P3:** 8.2  
 
-##Compilacion
-Ahora mismo el main se encuentra en p3.c por lo cual en el makefile se indica como main p3.c y el ejecutable que crea se llama p3,
-en caso de que tengas el main en otro archivo solo debes cambiar estos 2 campos por los que desees.
+---
+
+## Compilación
+
+Actualmente, el archivo `main` está definido en `p3.c`. Por lo tanto:
+- En el `Makefile`, se indica `main` como `p3.c`.
+- El ejecutable que se crea se llama `p3`.
+
+### Cambiar el archivo principal
+Si deseas usar otro archivo como `main`:
+1. Cambia la referencia de `main` en el `Makefile` al archivo que prefieras.
+2. Modifica el nombre del ejecutable según lo necesit
