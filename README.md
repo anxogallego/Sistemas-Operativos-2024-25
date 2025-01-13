@@ -17,4 +17,4 @@ Actualmente, el archivo `main` está definido en `p3.c`. Por lo tanto:
 ### Cambiar el archivo principal
 Si deseas usar otro archivo como `main`:
 1. Cambia la referencia de `main` en el `Makefile` al archivo que prefieras.
-2. Modifica el nombre del ejecutable según lo necesit
+2. Modifica el nombre del ejecutable al que desees.
