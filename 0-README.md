@@ -23,4 +23,4 @@ Si deseas usar otro archivo como `main`:
 
 ## Autor
 
-> **fu:s1cknex0**
+> **[fu:s1cknex0](https://www.dc.fi.udc.es/~so-grado/)**
