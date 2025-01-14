@@ -26,6 +26,12 @@ Si deseas usar otro archivo como `main`:
 
 ---
 
+## Implementación de las listas
+Para nuestro proyecto empleamos la opción *Array of Pointers* para la mayoría de las listas, excepto aquellas que exigían una implementación específica por requerimientos del profesor.
+
+---
+
 ## Autor
 
 > **[fu:s1cknex0](https://www.dc.fi.udc.es/~so-grado/)**
+
