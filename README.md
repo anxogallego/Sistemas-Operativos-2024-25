@@ -17,7 +17,7 @@ Código de la asignatura: **GEI-SO 614G01016**.
 
 Actualmente, el archivo `main` está definido en `p3.c`. Por lo tanto:
 - En el `Makefile`, se indica `main` como `p3.c`.
-- El ejecutable que se crea al hacer "make" en nuestro terminal en nuestra carpeta con el proyecto se llama `p3`.
+- El ejecutable que se crea al hacer `make` en nuestro terminal en nuestra carpeta con el proyecto se llama `p3`.
 
 ### Cambiar el archivo principal
 Si deseas usar otro archivo como `main`:
