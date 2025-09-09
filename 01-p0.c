@@ -19,11 +19,11 @@
 void authors(char *trozos[]){
 
     if (trozos[1] == NULL){
-        printf("Anxo Gallego Mato anxo.gallego@udc.es\nJavier Armada Rodrígez javier.armada@udc.es\nHugo Dopazo Marta hugo.dopazo@udc.es\n");
+        printf("Zlatan Ibrahimovic zlatan.ibrahimovic@udc.es\nAntony Matheus dos Santos antony.dossantos@udc.es\nFranco Mastontoaun franco.mastontoaun@udc.es\n");
     }else if (strcmp(trozos[1], "-l") == 0){
-        printf("Logins: anxo.gallego@udc.es javier.armada@udc.es hugo.dopazo@udc.es \n");
+        printf("Logins: zlatan.ibrahimovic@udc.es antony.dossantos@udc.es franco.mastontoaun@udc.es \n");
     }else if(strcmp(trozos[1], "-n") == 0)
-        printf("Nombres: Anxo Gallego Mato Javier Armada Rodríguez Hugo Dopazo Marta \n");
+        printf("Nombres: Zlatan Ibrahimovic Antony Matheus dos Santos Franco Mastontoaun \n");
     
 }
 
