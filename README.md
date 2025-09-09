@@ -7,7 +7,7 @@ Código de la asignatura: **GEI-SO 614G01016**.
 
 ## Calificaciones de Prácticas
 - **P1:** 4.1/10  
-  *(Razón: Violación de segmento en la función `historic N` (función de Labassignment0), por lo cual aspirábamos a un máximo de 5. Nota equiparable sin esa funcion: 8.2)*
+  *(Razón: Violación de segmento en la función `historic N` (función de Labassignment0), por lo cual aspirábamos a un máximo de 5.      Nota equiparable sin esa funcion: 8.2)*
 - **P2:** 9.4  
 - **P3:** 8.2  
 
