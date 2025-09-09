@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * * * * * * * * * * * CREADO POR: * * * * * * * * * * *
- * * * * Anxo Gallego Mato: anxo.gallego@udc.es  * * * *
- * * Javier Armada Rodríguez: javier.armada@udc.es * * *
- * * * *  Hugo Dopazo Marta:hugo.dopazo@udc.es * * * * *
+ * * * * 									     * * * *
+ * * *											   * * *
+ * * * * 									   * * * * *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 
